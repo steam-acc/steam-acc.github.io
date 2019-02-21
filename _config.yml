@@ -7,7 +7,8 @@
 # Jekyll basic configurations
 #
 source:         _app
-destination:    _site
+#destination    _site
+destination:    docs
 timezone:       America/Los_Angeles
 permalink:      /:title.html
 markdown:       kramdown
@@ -99,7 +100,8 @@ description:    ACC
 # `/my-project`, without trailing slash.
 #
 Default:      ""
-baseurl:        /lab/amsf
+baseurl:        /steam-acc.github.io
+#/lab/amsf
 
 # Flatten base
 #
@@ -109,7 +111,7 @@ baseurl:        /lab/amsf
 # enable this option if you're using GitHub Pages.
 #
 # Default:      false
-flatten_base:   false
+flatten_base:   true
 
 # CSS path used in templates
 #

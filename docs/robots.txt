@@ -1,0 +1,3 @@
+Sitemap: https://steam-acc.github.io/steam-acc.github.io/sitemap.xml
+
+User-agent: *
